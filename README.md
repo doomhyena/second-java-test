@@ -1,7 +1,7 @@
 # Dávid Dolgozat
 
 ## Áttekintés
-Ez a Java program egy interaktív matematikai játék, amely támogatja az egy- vagy kétjátékos módot. A játék során a felhasználók különböző nehézségi szinteken választhatnak matematikai műveleteket, és próbára tehetik tudásukat. A program nyomon követi a rekordot (a legtöbb sikeresen megoldott feladatot), amelyet fájlban tárol.
+Ez a Java program egy matekos játék, amely támogatja az egy- vagy kétjátékos módot. A játék során a felhasználók különböző nehézségi szinteken választhatnak matematikai műveleteket, és próbára tehetik tudásukat. A program nyomon követi a rekordot (a legtöbb sikeresen megoldott feladatot), amelyet fájlban tárol.
 
 ---
 
