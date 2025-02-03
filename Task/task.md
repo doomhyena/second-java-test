@@ -33,7 +33,7 @@ A program egy interaktív konzolos játék legyen, amely folyamatosan generál f
 
 **Osztályzás**
 
-| Jegy | Százalékolás |
+| Százalékolás | Jegy |
 |----------|----------|
 | 80-100%   | Jeles (5)   |
 | 60-79%   | Jó (4)   |
