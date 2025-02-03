@@ -31,9 +31,12 @@ Készíts egy Java alapú matematikai játékot, amelyben a játékosok különb
 **Elvárt működés:**
 A program egy interaktív konzolos játék legyen, amely folyamatosan generál feladatokat, amíg a játékos helyes válaszokat ad vagy el nem ront egyet. A játékosok pontszáma és rekordja mentésre kerül, hogy újraindítás után is elérhető legyen.
 
-**Extra fejlesztési lehetőségek:**
-- Többjátékos ranglista
-- Időlimit bevezetése a válaszadásra
-- Bővített matematikai műveletek (pl. hatványozás, maradékos osztás)
-- Grafikus felhasználói felület (GUI)
+**Osztályzás**
 
+| Jegy | Százalékolás |
+|----------|----------|
+| 80-100%   | Jeles (5)   |
+| 60-79%   | Jó (4)   |
+| 40-59   | Közepes (3)   |
+| 25-39%   | Elégséges (2)   |
+| 0-24%   | Elégtelen (1)   |
